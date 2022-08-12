@@ -56,3 +56,4 @@ Strategy Will be further updated upon & throughout the implementation of Project
 
 
 ## Security
+Storage of credentials & sensitive information
