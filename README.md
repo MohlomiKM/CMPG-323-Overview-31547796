@@ -3,24 +3,22 @@
 ## Project & Repository Context (Diagram)
 
 ## Project 1
-### Repository: Fashion Trend Development
+### Repository: Design Room Implementation
 
 ### Branching Strategy
-Implement NEWS Branch:
-Features (Various Types of e.g. Brands, Designers, Models)
+Implement Services Info Branch:
+Contains info on the different types of printing services available for customer assistance.
 
-Implement STYLES Branch:
-Features (Various Types of Fashion styles e.g. Sportswear, Graphic-wear, Streetwear, Formal-wear)
+Implement Branding Branch:
+An interactive service page for customers to place orders by providing thier branding/printing preferences and uploading thier designs (logos &/ artworks).
 
-Implement STYLE GUIDE Branch: (Provide users with recommended outfits for them according to thier news following and fashion style preferences) 
-
-Once Done with features integrate to Release
+Once Done with Branches integrate to Release
 
 ### .gitignore file
 
 
 ## Project 2
-### Repository: Fashion Trend API
+### Repository: Design Room API
 
 ### Branching Strategy
 Strategy Will be further updated upon & throughout the implementation of Project 2
@@ -29,7 +27,7 @@ Strategy Will be further updated upon & throughout the implementation of Project
 
 
 ## Project 3
-### Repository: Fashion Trend Design Patterns
+### Repository: Design Room Design Patterns
 
 ### Branching Strategy
 Strategy Will be further updated upon & throughout the implementation of Project 3
@@ -38,7 +36,7 @@ Strategy Will be further updated upon & throughout the implementation of Project
 
 
 ## Project 4
-### Repository: Fashion Trend Testing
+### Repository: Design Room Testing
 
 ### Branching Strategy
 Strategy Will be further updated upon & throughout the implementation of Project 4
@@ -47,7 +45,7 @@ Strategy Will be further updated upon & throughout the implementation of Project
 
 
 ## Project 5
-### Repository: Fashion Trend Monitor & Report
+### Repository: Design Room Monitor & Report
 
 ### Branching Strategy
 Strategy Will be further updated upon & throughout the implementation of Project 5
