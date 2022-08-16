@@ -3,7 +3,10 @@
 ## Project & Repository Context (Diagram)
 
 ## Project 1
-### Repository: Design Room Implementation
+See Design Room Github Project Setup
+
+## Project 2
+### Repository: Design Room API
 
 ### Branching Strategy
 Implement Services Info Branch:
@@ -13,15 +16,6 @@ Implement Branding Branch:
 An interactive service page for customers to place orders by providing thier branding/printing preferences and uploading thier designs (logos &/ artworks).
 
 Once Done with Branches integrate to Release
-
-### .gitignore file
-
-
-## Project 2
-### Repository: Design Room API
-
-### Branching Strategy
-Strategy Will be further updated upon & throughout the implementation of Project 2
 
 ### .gitignore file
 
