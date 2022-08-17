@@ -1,6 +1,7 @@
 # CMPG-323-Overview-31547796
 
 ## Project & Repository Context (Diagram)
+Refer to "Diagram" file uploaded to the overview
 
 ## Project 1
 See Design Room Github Project Setup
