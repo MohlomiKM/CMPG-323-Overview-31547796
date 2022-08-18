@@ -25,22 +25,39 @@ Once Done with each Branch integrate to Release
 ### Repository: Design Room Design Patterns
 
 ### Branching Strategy
-Strategy Will be further updated upon & throughout the implementation of Project 3
+Implement a Development Branch:
+Connect the Web App to the data source
 
+Implement Design Pattern Branch:
+Feature: Create Repository Classes
+Feature: Transfer data access operations
+Feature: Implement repository classes
 
 ## Project 4
 ### Repository: Design Room Testing
 
 ### Branching Strategy
-Strategy Will be further updated upon & throughout the implementation of Project 4
+Implement User Acceptance Testing Branch:
+Feature: Read the input data
+Feature: UI Automation
+Feature: Record Results
 
+Implement Project Close-out Branch:
+Deploy Solution: Publish the UiPath solution to the UiPath Orchestrator
 
 ## Project 5
 ### Repository: Design Room Monitor & Report
 
 ### Branching Strategy
-Strategy Will be further updated upon & throughout the implementation of Project 5
+Implement Data Connection Branch:
+Feature: Configure the Connection to Data Sources
+Feature: Implement Data Manipulation
 
+Implement Report Development Branch:
+Feature: High-Level Metrics
+Feature: Device Monitoring
+Feature: Device Registration
+Feature: Filtering
 
 ## .gitignore file
 All reference info regarding ignored committed files and deleted repository (with .gitignore rule) files will be mentioned on the current README file with actual .gitignore file attached / made available on each of the project repositories.
