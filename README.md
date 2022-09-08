@@ -63,4 +63,4 @@ All reference info regarding ignored committed files and deleted repository (wit
 Storage of credentials & sensitive information
 1. Implementing a Customer Security Database for storage
 2. Implement Authentication methods (User Login for Profile access)
-4. Conducting Security Tests (try to intentionally hack API to expose vulnerabilities) whenever API is Updated.
+3. Conducting Security Tests (try to intentionally hack API to expose vulnerabilities) whenever API is Updated.
