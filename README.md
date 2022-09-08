@@ -1,8 +1,5 @@
 # CMPG-323-Overview-31547796
 
-## Project & Repository Context (Diagram)
-Refer to "Diagram" file uploaded to the overview
-
 ## Project 1
 See Design Room Github Project Setup
 
@@ -14,10 +11,10 @@ Implement Services Info Branch:
 Contains info on the different types of printing services available for customer assistance.
 
 Implement Branding Branch:
-An interactive service page for customers to place orders by providing thier branding/printing preferences and uploading thier designs (logos &/ artworks).
+An interactive service page for customers to place orders by providing thier branding/printing preferences according to thier Garment & Printing Options.
 
 Implement DataBase Branch:
-Database to store customer credentials and order info and all other relevant data.
+Database to store client and order info and all other relevant data.
 
 Once Done with each Branch integrate to Release
 
@@ -66,5 +63,4 @@ All reference info regarding ignored committed files and deleted repository (wit
 Storage of credentials & sensitive information
 1. Implementing a Customer Security Database for storage
 2. Implement Authentication methods (User Login for Profile access)
-3. Encrpyt Customer Payment Details when placing Orders
 4. Conducting Security Tests (try to intentionally hack API to expose vulnerabilities) whenever API is Updated.
