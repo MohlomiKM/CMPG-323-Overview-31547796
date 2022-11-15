@@ -19,7 +19,7 @@ Database to store client and order info and all other relevant data.
 Once Done with each Branch integrate to Release
 
 ## Project 3
-### Repository: Design Room Design Patterns
+### Repository: Connected Office App Generic Repository
 
 ### Branching Strategy
 Implement a Development Branch:
@@ -31,7 +31,7 @@ Feature: Transfer data access operations
 Feature: Implement repository classes
 
 ## Project 4
-### Repository: Design Room Testing
+### Repository: Connected Office UI Path Automation 
 
 ### Branching Strategy
 Implement User Acceptance Testing Branch:
@@ -43,7 +43,7 @@ Implement Project Close-out Branch:
 Deploy Solution: Publish the UiPath solution to the UiPath Orchestrator
 
 ## Project 5
-### Repository: Design Room Monitor & Report
+### Repository: Connected office Power BI Monitor & Report
 
 ### Branching Strategy
 Implement Data Connection Branch:
@@ -62,5 +62,5 @@ All reference info regarding ignored committed files and deleted repository (wit
 ## Security
 Storage of credentials & sensitive information
 1. Implementing a Customer Security Database for storage
-2. Implement Authentication methods (User Login for Profile access)
+2. Implement Authentication methods (User Login for Profile & Project accesses)
 3. Conducting Security Tests (try to intentionally hack API to expose vulnerabilities) whenever API is Updated.
